@@ -11,7 +11,7 @@ const chalk = require('chalk')
 //━━━━━━━━━━━━━━━[ APIKEY TERPISAH ]━━━━━━━━━━━━━━━━━//
 lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
-global.owner = ['6285773557984','628588207904','6288292024190']
+global.owner = ['1(317)7997217','6282325673016','6288292024190']
 global.premium = ['6288292024190']
 global.packname = 'Kitzuna-MD'
 global.author = 'WhatsApp Bot'
