@@ -45,7 +45,7 @@ const wib = moment.tz('Asia/Jakarta').format('HH : mm : ss')
 const wita = moment.tz('Asia/Makassar').format('HH : mm : ss')
 const wit = moment.tz('Asia/Jayapura').format('HH : mm : ss')
 //━━━━━━━━━━━━━━━[ FAKE ]━━━━━━━━━━━━━━━━━//
-const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync('./media/kitzuna.jpg'), surface: 200, message: `D H A N I O F C`, orderTitle: 'Please Subscribe Youtube Miku Senpai', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true} 
+const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: fs.readFileSync('./media/kitzuna.jpg'), surface: 200, message: `D H A N I O F C`, orderTitle: 'Please Follow Instagram @saya_asroriamin', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true} 
 const floc = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `I’m From Indonesia 🇮🇩`,jpegThumbnail: thumb}}}
 //━━━━━━━━━━━━━━━[ MODULE EXSPORT ]━━━━━━━━━━━━━━━━━//
 module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
@@ -1159,13 +1159,13 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+displayText: 'Join Grub',
+url: 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed'
 }
 }, {
 callButton: {
  displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: '+62 882-2724-8988'
 }
 }, {
 quickReplyButton: {
@@ -1198,13 +1198,13 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
- url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+displayText: 'Join Grub',
+ url: 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: '+62 882-2724-8988'
 }
 }, {
 quickReplyButton: {
@@ -4956,25 +4956,25 @@ m.reply(captnya)
 break
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 case 'wangy':
-if (!q) return m.reply (`Contoh : .wangy Dani`)
+if (!q) return m.reply (`Contoh : .wangy Amin`)
 anu = q.toUpperCase()
 text = `${anu} ${anu} ${anu} ❤️ ❤️ ❤️ WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaaah baunya rambut ${anu} wangyy aku mau nyiumin aroma wangynya ${anu} AAAAAAAAH ~ Rambutnya.... aaah rambutnya juga pengen aku elus-elus ~~ AAAAAH ${anu} keluar pertama kali di anime juga manis ❤️ ❤️ ❤️ banget AAAAAAAAH ${anu} AAAAA LUCCUUUUUUUUUUUUUUU............ ${anu} AAAAAAAAAAAAAAAAAAAAGH ❤️ ❤️ ❤️apa ? ${anu} itu gak nyata ? Cuma HALU katamu ? nggak, ngak ngak ngak ngak NGAAAAAAAAK GUA GAK PERCAYA ITU DIA NYATA NGAAAAAAAAAAAAAAAAAK PEDULI BANGSAAAAAT !! GUA GAK PEDULI SAMA KENYATAAN POKOKNYA GAK PEDULI. ❤️ ❤️ ❤️ ${anu} gw ... ${anu} di laptop ngeliatin gw, ${anu} .. kamu percaya sama aku ? aaaaaaaaaaah syukur ${anu} aku gak mau merelakan ${anu} aaaaaah ❤️ ❤️ ❤️ YEAAAAAAAAAAAH GUA MASIH PUNYA ${anu} SENDIRI PUN NGGAK SAMA AAAAAAAAAAAAAAH`
 m.reply(text)
 break
 case 'wangy2':
-if (!q) return m.reply (`Contoh : .wangy Dani`)
+if (!q) return m.reply (`Contoh : .wangy Amin`)
 anu = q.toUpperCase()
 wangy = `GW BENAR-BENAR PENGEN JILAT KAKI *${anu}*,GW PENGEN BANGET MENJILAT SETIAP BAGIAN KAKINYA SAMPAI AIR LIUR GW BERCUCURAN KAYAK AIR KERINGAT LALU NGENTOD DENGAN NYA SETIAP HARI SAMPAI TUBUH KITA MATI RASA, YA TUHAN GW INGIN MEMBUAT ANAK ANAK DENGAN *${anu}* SEBANYAK SATU TIM SEPAK BOLA DAN MEMBUAT SATU TIM SEPAK BOLA LAINYA UNTUK MELAWAN ANAK-ANAK TIM SEPAK BOLA PERTAMA GW  YANG GW BUAT SAMA *${anu}* GW PENGEN MASUK KE SETIAP LUBANG TUBUHNYA, MAU ITU LUBANG HIDUNG LUBANG MATA MAUPUN LUBANG BOOL, KEMUDIAN GW AKAN MANUSIA YANG TIDAK BISA HIDUP KALO GW GA ENTOD SETIAP HARI`
 m.reply(wangy)
 break
 case 'nenen':
-if (!q) return m.reply (`Contoh : .wangy Dani`)
+if (!q) return m.reply (`Contoh : .wangy Amin`)
 anu = q.toUpperCase()
 wangy = `NENEN NENEN KEPENGEN NENEN SAMA ${anu}. TETEK GEDE NAN KENCANG MILIK ${anu} MEMBUATKU KEPENGEN NENEN. DIBALUT PAKAIAN KETAT YANG ADUHAI CROOOOTOTOTOTOTOT ANJING SANGE GUA BANGSAT. ${anu}, PLIS DENGERIN BAIK BAIK. TOLONG BUKA BAJU SEBENTAR SAJA PLISSS TOLOOONG BANGET, BIARKAN MULUT KERINGKU BISA MENGECAP NENEN ${anu}. BIARKAN AKU MENGENYOT NENENMU ${anu}. AKU RELA NGASIH SESEMBAHAN APA AJA BERAPAPUN ITU DUIT YANG AKU BAKAR KHUSUS TERKHUSUS BUATMU. TAPI TOLOOOONG BANGET BUKA BAJUMU AKU MAU NENEN. NENEN NENEEEEN NENEN ${anu} WANGIIII`
 m.reply(wangy)
 break
 case 'simp':
-if (!q) return m.reply (`Contoh : .wangy Dani`)
+if (!q) return m.reply (`Contoh : .wangy Amin`)
 anu = q.toUpperCase()
 wangy = `Buruan, panggil gue SIMP, ato BAPERAN. ini MURNI PERASAAN GUE. Gue pengen genjot bareng ${anu}. Ini seriusan, suaranya yang imut, mukanya yang cantik, apalagi badannya yang aduhai ningkatin gairah gue buat genjot ${anu}. Setiap lapisan kulitnya pengen gue jilat. Saat gue mau crot, gue bakal moncrot sepenuh hati, bisa di perut, muka, badan, teteknya, sampai lubang burit pun bakal gue crot sampai puncak klimaks. Gue bakal meluk dia abis gue moncrot, lalu nanya gimana kabarnya, ngrasain enggas bareng saat telanjang. Dia bakal bilang kalau genjotan gue mantep dan nyatain perasaannya ke gue, bilang kalo dia cinta ama gue. Gue bakal bilang balik seberapa gue cinta ama dia, dan dia bakal kecup gue di pipi. Terus kita ganti pakaian dan ngabisin waktu nonton film, sambil pelukan ama makan hidangan favorit. Gue mau ${anu} jadi pacar, pasangan, istri, dan idup gue. Gue cinta dia dan ingin dia jadi bagian tubuh gue. Lo kira ini copypasta? Kagak cok. Gue ngetik tiap kata nyatain prasaan gue. Setiap kali elo nanya dia siapa, denger ini baik-baik : DIA ISTRI GUE. Gue sayang ${anu}, dan INI MURNI PIKIRAN DAN PERASAAN GUE.`
 m.reply(wangy)
@@ -5557,13 +5557,11 @@ anu = `┌──⭓ *Info Scrip*
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/Hisoka-Morou'
-}
+displayText: 'Join Grub', url: 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed' }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: '+62 882-2724-8988'
 }
 }, {
 quickReplyButton: {
@@ -5652,7 +5650,15 @@ hisoka.sendListMsg(m.chat, `Please select the menu you want to change!`, hisoka.
 }
 break
 case 'list': case 'menu': case 'help': case '?': {
-anu = `┌──⭓ *Info User*
+anu = `┌──⭓ *Info Owner*
+│
+│ ⫹⫺ Nama : Asrori Amin
+│ ⫹⫺ Hobi : Menyanyi,Menari,Belajar
+│ ⫹⫺ Kesukaan : Loli,Roti,Mayaaa
+│ ⫹⫺ Ulang Tahun : 18-10-2006
+│
+└───────⭓
+┌──⭓ *Info User*
 │
 │ ⫹⫺ Library: Baileys-Md
 │ ⫹⫺ Language : Javascript
@@ -6464,25 +6470,24 @@ anu = `┌──⭓ *Info User*
 ┌──⭓ *Creator Botz*
 │
 │あ DikaArdnt [Author]
-│あ DaniUhuy [Newbie]
+│あ Asrori Amin [me]
 │あ Manik [Mastah]
-│あ Fatih Arridho [Sensei]
+│あ Fatih Arridho [Konco]
+│あ Dani Uhuy [konco]
 │あ HyzerDev [Mastah]
 │あ Penyedia Rest Api
 │あ Delta [Newbie]
 └───────⭓`
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/Hisoka-Morou'
-}
+displayText: 'Join Grub', url: 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed' }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+62 882-9202-4190'
+phoneNumber: '+62 882-2724-8988'
 }
 }]
-let timb = 'https://wa.me/6287892711054'
+let timb = 'https://wa.me/6288227248988'
 let butts = [
 {buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1},
 {buttonId: '.ping', buttonText: {displayText: 'Speed'}, type: 1}
@@ -6497,7 +6502,7 @@ footer: hisoka.user.name,
 buttons: butts,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: "Delta Md",
+title: "Asrori Amjn",
 mediaType: 1,
 renderLargerThumbnail: true , 
 showAdAttribution: true, 

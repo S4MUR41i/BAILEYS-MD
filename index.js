@@ -156,16 +156,16 @@ templateMessage: {
 hydratedTemplate: {
         imageMessage: message.imageMessage,
         hydratedContentText: Welcome,
-        hydratedFooterText: 'Welcome Message By Elaina-MD',
+        hydratedFooterText: 'Welcome Message By Asrori Amin',
         hydratedButtons: [{
         	urlButton: {
-            displayText: 'Rest Api',
-            url: 'https://kanza-api.herokuapp.com'
+            displayText: 'Join Grub',
+            url: 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed'
             }
             }, {
            callButton: {
            displayText: 'Number Owner ',
-            phoneNumber: '+62 857-7355-7984'
+            phoneNumber: '+62 882-2724-8988'
             }
             }, {
             quickReplyButton: {
@@ -194,16 +194,16 @@ let message = await prepareWAMessageMedia({ image: {url: ppuser }}, { upload: hi
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: Goodbay,
-                            hydratedFooterText: 'Leaving Message By DaniUhhuy',
+                            hydratedFooterText: 'Leaving Message By Asrori Amin',
                             hydratedButtons: [{
                             	urlButton: {
-            displayText: 'Rest Api',
-            url: 'https://kanza-api.herokuapp.com'
+            displayText: 'Join Grub',
+            url: 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed'
             }
             }, {
            callButton: {
            displayText: 'Number Owner ',
-            phoneNumber: '+62 857-7355-7984'
+            phoneNumber: '+62 882-2724-8988'
             }
             }, {
             quickReplyButton: {
